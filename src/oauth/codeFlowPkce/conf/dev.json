@@ -1,0 +1,9 @@
+{
+    "client_id": "<YOUR_CILENT_ID>",
+    "client_secret": "<YOUR_CLIENT_SECRET>",
+    "okta_url": "https://<YOUR_OIDC_URL>/oauth2/<YOUR_TENANT>",
+    "scopes": ["openid", "profile", "email", "offline_access"],
+    "redirect_uri": "https://localhost:4200/login/callback",
+    "logout_uri": "https://localhost:4200/logout",
+    "origin": "https://localhost:4200"
+}

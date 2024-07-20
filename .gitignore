@@ -1,0 +1,6 @@
+**/conf/c1.json
+.idea/
+cert/
+dist/
+node_modules/
+.npmrc

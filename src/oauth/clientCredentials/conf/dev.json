@@ -1,0 +1,6 @@
+{
+    "okta_url": "https://<YOUR_OIDC_URL>/oauth2/<YOUR_TENANT>/v1/token",
+    "scopes": ["<YOUR_SCOPE>"],
+    "client_id": "<YOUR_CILENT_ID>",
+    "client_secret": "<YOUR_CLIENT_SECRET>"
+}
